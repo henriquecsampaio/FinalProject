@@ -1,4 +1,4 @@
-# CPAN144_FinalProject
+# Travel Explorer-React JS Website
 
 Welcome to Travel Explorer, a responsive website developed using React JS, designed to inspire and assist travelers in planning their dream vacations. This project aims to provide users with valuable information about various destinations, including current weather conditions and currency exchange rates, ensuring they have all the necessary details to make informed decisions.
 
