@@ -4,6 +4,8 @@ import "bootstrap/dist/css/bootstrap.css";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 
+//TODO: Fix the bug that is preventing the API call to be done correctly.
+
 export default function App() {
   const cities = ['Salvador', 'Paris', 'New York', 'Cairo', 'Tokyo', 'Sydney'];
   const [city, setCity] = useState("");
